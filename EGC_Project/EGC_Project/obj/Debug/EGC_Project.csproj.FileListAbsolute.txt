@@ -1,0 +1,11 @@
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\obj\Debug\EGC_Project.csproj.AssemblyReference.cache
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\obj\Debug\EGC_Project.csproj.CoreCompileInputs.cache
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\EGC_Project.exe.config
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\EGC_Project.exe
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\EGC_Project.pdb
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\OpenTK.dll
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\OpenTK.pdb
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\bin\Debug\OpenTK.xml
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\obj\Debug\EGC_Proj.0C4A7265.Up2Date
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\obj\Debug\EGC_Project.exe
+C:\Users\n0_es\OneDrive\Desktop\Uni Stuff\OpenGL\EGC_Project\EGC_Project\obj\Debug\EGC_Project.pdb
